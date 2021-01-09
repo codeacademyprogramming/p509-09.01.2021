@@ -32,5 +32,4 @@
 
 ## Some other useful resources:
 
-- MDN Event: https://developer.mozilla.org/en-US/docs/Web/API/Event
 - https://gkucmierz.github.io/Test-of-localStorage-limits-quota/
