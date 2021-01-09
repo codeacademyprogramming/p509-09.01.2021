@@ -22,11 +22,11 @@
 
 ## Assignments:
 
-1. Watch these videos:
+1. **Watch these videos:**
    - [How The Web Works - The Big Picture](https://youtu.be/hJHvdBlSxug)
    - [HTTPS and Web Security - The State of the Web](https://youtu.be/kBzbKUirOFk)
    - [JavaScript Cookies vs Local Storage vs Session](https://youtu.be/GihQAC1I39Q)
-2. Save form fields in local or session storage.
+2. **Save form fields in local or session storage.**
    - Use form validaton code from [previues lesson](https://github.com/codeacademyprogramming/p509-03.01.2021/tree/main/starter).
    - Clear input's date when user submit the form.
 
