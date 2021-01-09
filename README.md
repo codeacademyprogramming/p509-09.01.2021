@@ -17,7 +17,7 @@
   - [What Are Cookies? And How They Work | Explained for Beginners!](https://youtu.be/rdVPflECed8)
   - [How ads follow you around the internet](https://youtu.be/HFyaW50GFOs)
   - [How cookies can track you (Simply Explained)](https://youtu.be/QWw7Wd2gUJk)
-  - [2038 Will Be the End of Time (In the Unix 32-Bit Timecode)](]https://youtu.be/zZwzrlLc_oc)
+  - [2038 Will Be the End of Time (In the Unix 32-Bit Timecode)](https://youtu.be/zZwzrlLc_oc)
   - [Vanilla JS - Movie DB project](https://drive.google.com/drive/folders/1igIIUsdOeFvwgZKVmEoCBFFebam09A4W?usp=sharing)
 
 ## Assignments:
